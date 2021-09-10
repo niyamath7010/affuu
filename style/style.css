@@ -1,3 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 h1{
-    color: brown;
+    color: rgb(211, 53, 53);
+    justify-content: center;
+    display: flex;
+    text-shadow: burlywood 2px 3px 4px;
+    padding-top: 200px  ;
+    
+}
+.container{
+    background-color: darkcyan;
+    height: 100vh;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    color: rgb(24, 98, 168);
+    font-size: 30px;
+    padding-top: 50px;
 }
